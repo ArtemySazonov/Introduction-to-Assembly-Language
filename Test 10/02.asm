@@ -1,3 +1,5 @@
+// Line numbers
+
 .include "conio.h"
 .global _start
 

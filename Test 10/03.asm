@@ -1,3 +1,5 @@
+// Words and brackets
+
 .include "conio.h"
 .global _start
 
